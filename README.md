@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Anannasa](https://github.com/BDR-Pro/Python-Nyaa-Web-scraper)
 
-- 🌱 I’m currently learning **Powershell && Rust && Kali**
+- 🌱 I’m currently learning **Powershell && Rust && linux**
 
 - 👯 I’m looking to collaborate on [Malware Projects](https://github.com/BDR-Pro/Silent-Penguin-malware-script/)
 
