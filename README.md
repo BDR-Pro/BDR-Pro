@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bader Alotaibi</h1>
 <h3 align="center">A Humble Programmer from Saudi Arabia - Hacking and low level Programming</h3>
 
-![aws-certified-solutions-architect-associate](https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c)
+[![verify aws-certified-solutions-architect-associate](https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c)](https://www.credly.com/badges/66e78b74-862c-4a2f-b91c-ae49361a3289/public_url)
 
-[verify aws-certified-solutions-architect-associate](https://www.credly.com/badges/66e78b74-862c-4a2f-b91c-ae49361a3289/public_url)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdr-pro&label=Profile%20views&color=0e75b6&style=flat" alt="bdr-pro" /> </p>
 
