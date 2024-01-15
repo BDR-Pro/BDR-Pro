@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python && Linux && Docker && Mongodb**
 
-- 📫 How to reach me **mailto:baderalotaibi3@gmail.com**
+- 📫 How to reach me **baderalotaibi3@gmail.com**
 
 - 📄 Know about my experiences [Best CV](https://docdro.id/rxg0wDR)
 
