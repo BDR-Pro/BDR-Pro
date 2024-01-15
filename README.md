@@ -20,9 +20,9 @@
 
 - 📝 I regularly post memes on [Best Page In the cosmos](https://twitter.com/progorammer)
 
-- 💬 Ask me about **Python && Java && Mongodb**
+- 💬 Ask me about **Python && Linux && Docker && Mongodb**
 
-- 📫 How to reach me **baderalotaibi3@gmail.com**
+- 📫 How to reach me **mailto:baderalotaibi3@gmail.com**
 
 - 📄 Know about my experiences [Best CV](https://docdro.id/rxg0wDR)
 
