@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **baderalotaibi3@gmail.com**
 
-- 📄 Know about my experiences [Best CV](https://docdro.id/rxg0wDR)
+- 📄 Know about my experiences [Best CV](https://amber-batsheva-16.tiiny.site)
 
 - ⚡ Not fun fact **I hate java && php**
 
