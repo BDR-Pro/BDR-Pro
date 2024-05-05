@@ -3,6 +3,26 @@
 
 [![verify aws-certified-solutions-architect-associate](https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c)](https://www.credly.com/badges/66e78b74-862c-4a2f-b91c-ae49361a3289/public_url)
 
+# My Live Websites
+
+## [FrameTheVideo](https://framethevideo.com/)
+Turn any video into pretty wallpapers.
+
+## [IsItPhotoshopped](http://isitphotoshoped.com/)
+Check if an image is photoshopped or not.
+
+## [DD_Magic_bot](https://t.me/DD_Magic_bot)
+Download YouTube videos and save thumbnails.
+
+# Coming Soon
+
+## FilmFluency
+Learn languages through watching movies.  
+Website: filmfluency.com (launching soon)
+
+## [Bookify_Audio_Bot](https://t.me/bookify_audio_bot)
+Download any audiobook by searching its name.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdr-pro&label=Profile%20views&color=0e75b6&style=flat" alt="bdr-pro" /> </p>
 
