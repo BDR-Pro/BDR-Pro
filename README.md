@@ -14,6 +14,9 @@ Check if an image is photoshopped or not.
 ## [DD_Magic_bot](https://t.me/DD_Magic_bot)
 Download YouTube videos and save thumbnails.
 
+## [My-Rust-Package](https://github.com/BDR-Pro/My-Rust-Package)
+Published packages you can download and use in rust
+
 # Coming Soon
 
 ## FilmFluency
