@@ -3,6 +3,8 @@
 
 [![verify aws-certified-solutions-architect-associate](https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c)](https://www.credly.com/badges/66e78b74-862c-4a2f-b91c-ae49361a3289/public_url)
 
+![27652fdd-dd5d-4b9e-b90d-85aa86e9fac0](https://github.com/user-attachments/assets/df19eda5-d77e-4152-b97c-a24ea6963c6a)
+
 # My Live Websites
 
 ## [FrameTheVideo](https://framethevideo.com/)
