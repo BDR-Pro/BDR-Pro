@@ -6,9 +6,10 @@
     <img src="https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c" alt="verify aws-certified-solutions-architect-associate">
   </a>
  <a href="https://certs.ine.com/a01a7bdd-e985-4d76-92ed-cac10d7b52aa#gs.dz6dox">
-  <img src="https://github.com/user-attachments/assets/df19eda5-d77e-4152-b97c-a24ea6963c6a/27652fdd-dd5d-4b9e-b90d-85aa86e9fac0" alt="27652fdd-dd5d-4b9e-b90d-85aa86e9fac0">
+  <img src="https://github.com/user-attachments/assets/74f568f0-3313-4a6f-ac56-fed13a05f803" alt="27652fdd-dd5d-4b9e-b90d-85aa86e9fac0">
  </a> 
 </p>
+
 
 
 # My Live Websites
