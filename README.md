@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bader Alotaibi</h1>
 <h3 align="center">A Humble Programmer from Saudi Arabia - Hacking and low level Programming</h3>
 
-[![verify aws-certified-solutions-architect-associate](https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c)](https://www.credly.com/badges/66e78b74-862c-4a2f-b91c-ae49361a3289/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/66e78b74-862c-4a2f-b91c-ae49361a3289/public_url">
+    <img src="https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c" alt="verify aws-certified-solutions-architect-associate">
+  </a>
+ <a href="https://certs.ine.com/a01a7bdd-e985-4d76-92ed-cac10d7b52aa#gs.dz6dox">
+  <img src="https://github.com/user-attachments/assets/df19eda5-d77e-4152-b97c-a24ea6963c6a/27652fdd-dd5d-4b9e-b90d-85aa86e9fac0" alt="27652fdd-dd5d-4b9e-b90d-85aa86e9fac0">
+ </a> 
+</p>
 
-![27652fdd-dd5d-4b9e-b90d-85aa86e9fac0](https://github.com/user-attachments/assets/df19eda5-d77e-4152-b97c-a24ea6963c6a)
 
 # My Live Websites
 
