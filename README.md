@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bader Alotaibi</h1>
 <h3 align="center">A Humble Programmer from Saudi Arabia - Hacking and low level Programming</h3>
-<a href="https://app.daily.dev/baderalotaibi"><img src="https://api.daily.dev/devcards/v2/WvRZ3T0ywMAlAJmzJK80X.png?type=wide&r=31b" width="652" alt="Bader Alotaibi's Dev Card"/></a>
+<a href="https://app.daily.dev/baderalotaibi"><img src="https://github.com/user-attachments/assets/bc4fe43f-6a99-4dd6-b157-bea67f030859" width="652" alt="Bader Alotaibi's Dev Card"/></a>
+
 <p align="center">
   <a href="https://www.credly.com/badges/66e78b74-862c-4a2f-b91c-ae49361a3289/public_url">
     <img src="https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c" alt="verify aws-certified-solutions-architect-associate">
