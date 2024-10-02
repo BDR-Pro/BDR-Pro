@@ -3,29 +3,10 @@
 <a href="https://app.daily.dev/baderalotaibi"><img src="https://github.com/user-attachments/assets/bc4fe43f-6a99-4dd6-b157-bea67f030859" width="652" alt="Bader Alotaibi's Dev Card"/></a>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/66e78b74-862c-4a2f-b91c-ae49361a3289/public_url">
-    <img src="https://github.com/BDR-Pro/BDR-Pro/assets/91114465/1a65c6fb-89ac-4290-9431-4d5cf69d9d6c" alt="verify aws-certified-solutions-architect-associate">
-  </a>
- <a href="https://certs.ine.com/a01a7bdd-e985-4d76-92ed-cac10d7b52aa#gs.dz6dox">
-  <img src="https://github.com/user-attachments/assets/74f568f0-3313-4a6f-ac56-fed13a05f803" alt="27652fdd-dd5d-4b9e-b90d-85aa86e9fac0">
- </a> 
-   <a href="https://certs.ine.com/a01a7bdd-e985-4d76-92ed-cac10d7b52aa#gs.dz6dox">
-  <img src="https://github.com/user-attachments/assets/26f72baa-4c9c-4daf-a241-ca2845554071" alt="27652fdd-dd5d-4b9e-b90d-85aa86e9fac0">
- </a> 
-
- </a> 
-   <a href="https://www.credly.com/badges/8d0cc3ff-69dd-4935-8819-41bc72820ba5/public_url">
-  <img src="https://github.com/user-attachments/assets/066004cd-b4e5-4fa8-94de-7d68962d4b0b" alt="27652fdd-dd5d-4b9e-b90d-85aa86e9fac0">
- </a> 
-
-  </a> 
-   <a href="https://www.credly.com/badges/ca0385de-7d3c-4f95-af6e-0389ee0e1449/public_url">
-  <img src="https://github.com/user-attachments/assets/fdd0dc94-bd38-46a2-a3e4-348f46c99e2c" alt="27652fdd-dd5d-4b9e-b90d-85aa86e9fac0">
- </a> 
- 
+    <img src="https://github.com/user-attachments/assets/080c07c2-9ecf-4cc8-97c9-2bac5d96a37e" alt="my-badegs">
 
 
-</p>
+
 
 
 
