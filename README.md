@@ -10,42 +10,17 @@
 
 
 
-
-# My Live Websites
-
-## [FrameTheVideo](https://framethevideo.com/)
-Turn any video into pretty wallpapers.
-
-## [IsItPhotoshopped](http://isitphotoshoped.com/)
-Check if an image is photoshopped or not.
-
-## [DD_Magic_bot](https://t.me/DD_Magic_bot)
-Download YouTube videos and save thumbnails.
-
-## [My-Rust-Package](https://github.com/BDR-Pro/My-Rust-Package)
-Published packages you can download and use in rust
-
-## [Bookify_Audio_Bot](https://t.me/bookify_audio_bot)
-Download any audiobook by searching its name.
-
-# Coming Soon
-
-## FilmFluency
-Learn languages through watching movies.  
-Website: filmfluency.com (launching soon)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bdr-pro&label=Profile%20views&color=0e75b6&style=flat" alt="bdr-pro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdr-pro" alt="bdr-pro" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/progorammer" target="blank"><img src="https://img.shields.io/twitter/follow/progorammer?logo=twitter&style=for-the-badge" alt="progorammer" /></a> </p>
 
-- 🔭 I’m currently working on [Anannasa](https://github.com/BDR-Pro/Python-Nyaa-Web-scraper)
+- 🔭 I’m currently working on [Lumaris](https://github.com/BDR-Pro/lumaris_marketplace)
 
-- 🌱 I’m currently learning **Powershell && Rust && linux**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on [Malware Projects](https://github.com/BDR-Pro/Silent-Penguin-malware-script/)
+- 👯 I’m looking to collaborate on [ThumbnailMaker Ai](https://github.com/BDR-Pro/ThumbnailMaker)
 
 - 👨‍💻 All of my projects are available at [BDR-Pro/Projects](https://github.com/BDR-Pro?tab=repositories)
 
