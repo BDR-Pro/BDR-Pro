@@ -24,8 +24,6 @@
 
 - 👨‍💻 All of my projects are available at [BDR-Pro/Projects](https://github.com/BDR-Pro?tab=repositories)
 
-- 📝 I regularly post memes on [Best Page In the cosmos](https://twitter.com/codewithbdr)
-
 - 💬 Ask me about **Python && Linux && Docker && Mongodb**
 
 - 📫 How to reach me **baderalotaibi3@gmail.com**
