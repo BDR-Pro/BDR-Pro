@@ -2,20 +2,23 @@
 <h3 align="center">A Humble Programmer from Saudi Arabia - Hacking and low level Programming</h3>
 <a href="https://app.daily.dev/baderalotaibi"><img src="https://github.com/user-attachments/assets/bc4fe43f-6a99-4dd6-b157-bea67f030859" width="652" alt="Bader Alotaibi's Dev Card"/></a>
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/080c07c2-9ecf-4cc8-97c9-2bac5d96a37e" alt="my-badegs">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+  <img src="https://github.com/user-attachments/assets/080c07c2-9ecf-4cc8-97c9-2bac5d96a37e" alt="my-badges" width="120">
+
+  <img src="https://github.com/user-attachments/assets/96d80860-6f11-4c47-86af-a69c275137b8" alt="itil4 foundation" width="120">
+
+  <img src="https://komarev.com/ghpvc/?username=bdr-pro&label=Profile%20views&color=0e75b6&style=flat" alt="bdr-pro" width="120">
 
 
 
+</div>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdr-pro&label=Profile%20views&color=0e75b6&style=flat" alt="bdr-pro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdr-pro" alt="bdr-pro" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/progorammer" target="blank"><img src="https://img.shields.io/twitter/follow/progorammer?logo=twitter&style=for-the-badge" alt="progorammer" /></a> </p>
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bdr-pro" alt="bdr-pro trophies">
+  </a>
+  
 - 🔭 I’m currently working on [Lumaris](https://github.com/BDR-Pro/lumaris_marketplace)
 
 - 🌱 I’m currently learning **Kubernetes**
