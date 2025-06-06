@@ -2,7 +2,6 @@
 <h3 align="center">A Humble Programmer from Saudi Arabia - Hacking and low level Programming</h3>
 <a href="https://app.daily.dev/baderalotaibi"><img src="https://github.com/user-attachments/assets/bc4fe43f-6a99-4dd6-b157-bea67f030859" width="652" alt="Bader Alotaibi's Dev Card"/></a>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   
   <img src="https://github.com/user-attachments/assets/080c07c2-9ecf-4cc8-97c9-2bac5d96a37e" alt="my-badges" width="120">
 
@@ -12,7 +11,6 @@
 
 
 
-</div>
 
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
