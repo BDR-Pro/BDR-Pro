@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/baderalotaibi"><img src="https://github.com/user-attachments/assets/bc4fe43f-6a99-4dd6-b157-bea67f030859" width="652" alt="Bader Alotaibi's Dev Card"/></a>
 
   
-  <img src="https://github.com/user-attachments/assets/080c07c2-9ecf-4cc8-97c9-2bac5d96a37e" alt="my-badges" width="120">
+  <img src="https://github.com/user-attachments/assets/080c07c2-9ecf-4cc8-97c9-2bac5d96a37e" alt="my-badges" width="240">
 
   <img src="https://github.com/user-attachments/assets/96d80860-6f11-4c47-86af-a69c275137b8" alt="itil4 foundation" width="120">
 
